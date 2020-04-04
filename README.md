@@ -1,11 +1,11 @@
 # Barcode Sorter App
 
-Have you ever been in a situation where you have trash, but you don't know how you should throw it away? This app allows users to scan barcodes of certain items that they want to throw away and the app will return detailed instructions of how to properly dispose of it!
+Have you ever been in a situation where you have trash, but you don't know how you should throw it away? This app allows users to scan barcodes of certain items that they want to throw away and the app will return detailed instructions of how to properly dispose of it! :recycle:
 
-# Demo
+# Demo :iphone:
 ![app_demo](https://github.com/okyang/Barcode_Waste_Sorter/blob/master/app_demo.gif)
 
-# User Instructions
+# User Instructions :notebook_with_decorative_cover:
 1. Open up the Barcode Sorter App
 2. Tap on the Camera Icon
 3. Scan the barcode of the item you wish to throw away

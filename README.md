@@ -3,12 +3,13 @@
 Have you ever been in a situation where you have trash, but you don't know how you should throw it away? This app allows users to scan barcodes of certain items that they want to throw away and the app will return detailed instructions of how to properly dispose of it! 
 
 **What are the benefits of sorting your trash?**
-- Environmental Protextion  :earth_americas:
+- Environmental Protection  :earth_americas:
 - Conserves energy when materials are reused :bulb:
 - Saves precious resources when materials are properly recycled :recycle:
 - Reduces contamination on recyclable materials :shit:
 
 **Why use this app?**
+
 Not only does this app tell you how to properly sort your trash, but everytime you scan an item that does not exist in our database, we can go ahead and ask manfacturers (the people who created the trash in the first place) to give us (the consumers of their product) proper instructions and maybe even encourage them to make their products more environmentally freindly. 
 
 # Demo :iphone:

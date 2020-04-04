@@ -6,11 +6,11 @@ Have you ever been in a situation where you have trash, but you don't know how y
 - Environmental Protection  :earth_americas:
 - Conserves energy when materials are reused :bulb:
 - Saves precious resources when materials are properly recycled :recycle:
-- Reduces contamination on recyclable materials :shit:
+- Reduces contamination on recyclables, compost, or reusable materials :shit:
 
 **Why use this app?**
 
-Not only does this app tell you how to properly sort your trash, but everytime you scan an item that does not exist in our database, we can go ahead and ask manfacturers (the people who created the trash in the first place) to give us (the consumers of their product) proper instructions and maybe even encourage them to make their products more environmentally freindly. 
+Not only does this app tell you how to properly sort your trash, but everytime you scan an item that does not exist in our database, we can go ahead and ask manfacturers (*the people who created the trash in the first place*) to give us (*the consumers of their product*) proper instructions and maybe even encourage them to make their products more environmentally freindly. 
 
 # Demo :iphone:
 ![app_demo](https://github.com/okyang/Barcode_Waste_Sorter/blob/master/app_demo.gif)
